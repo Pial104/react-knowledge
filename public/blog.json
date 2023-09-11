@@ -1,40 +1,40 @@
 [
     {
         "id": 12345,
-        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "cover": "https://i.ibb.co/b7nHZjw/1.jpg",
         "title": "Secrets of the Enchanted Forest",
         "author": "Emily Johnson",
-        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "author_img": "https://i.ibb.co/h9hr93y/boy1.png",
         "posted_date": "August 15, 2023",
         "reading_time": 2,
         "hashtags": ["#fantasy", "#adventure", "#magic"]
     },
     {
         "id": 67890,
-        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "cover": "https://i.ibb.co/SBq4j7K/2.png",
         "title": "The Galactic Odyssey",
         "author": "David Smith",
-        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "author_img": "https://i.ibb.co/tz2KQJR/boy2.jpg",
         "posted_date": "September 2, 2023",
         "reading_time": 3.5,
         "hashtags": ["#scifi", "#space", "#exploration"]
     },
     {
         "id": 23456,
-        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "cover": "https://i.ibb.co/gDmc7Zp/3.png",
         "title": "Mystery at Moonlight Manor",
         "author": "Sarah Anderson",
-        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "author_img": "https://i.ibb.co/0sfPDm1/girl1.jpg",
         "posted_date": "August 25, 2023",
         "reading_time": 1.5,
         "hashtags": ["#mystery", "#detective", "#suspense"]
     },
     {
         "id": 78901,
-        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "cover": "https://i.ibb.co/jbS5Spj/4.jpg",
         "title": "Cooking Delights: A Culinary Adventure",
         "author": "Michael Lee",
-        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "author_img": "https://i.ibb.co/0BmX5jH/girl2.jpg",
         "posted_date": "September 7, 2023",
         "reading_time": 2.5,
         "hashtags": ["#cooking", "#foodie", "#recipes"]
