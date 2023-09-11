@@ -1,0 +1,43 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "title": "Secrets of the Enchanted Forest",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "posted_date": "August 15, 2023",
+        "reading_time": 2,
+        "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "title": "The Galactic Odyssey",
+        "author": "David Smith",
+        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "posted_date": "September 2, 2023",
+        "reading_time": 3.5,
+        "hashtags": ["#scifi", "#space", "#exploration"]
+    },
+    {
+        "id": 23456,
+        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "title": "Mystery at Moonlight Manor",
+        "author": "Sarah Anderson",
+        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "posted_date": "August 25, 2023",
+        "reading_time": 1.5,
+        "hashtags": ["#mystery", "#detective", "#suspense"]
+    },
+    {
+        "id": 78901,
+        "cover": "https://i.ibb.co/6y7rmZn/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "title": "Cooking Delights: A Culinary Adventure",
+        "author": "Michael Lee",
+        "author_img": "https://i.ibb.co/27MFJ8G/vadim-bogulov-rd-Hrr-FA1-KKg-unsplash.jpg",
+        "posted_date": "September 7, 2023",
+        "reading_time": 2.5,
+        "hashtags": ["#cooking", "#foodie", "#recipes"]
+    }
+   
+]
